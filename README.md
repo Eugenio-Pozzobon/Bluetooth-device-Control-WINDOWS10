@@ -8,8 +8,9 @@ Usando esse software é possível poupar o tempo de abrir as configurações e c
 
 ### Guia de Instalação
 
-Instale esse software previamente:
-Instale esse arquivo ou baixe os arquivos desse repositório.
+1. Instale [esse software](https://bluetoothinstaller.com/bluetooth-command-line-tools/BluetoothCLTools-1.2.0.56.exe) disponibilizado [aqui](https://bluetoothinstaller.com/bluetooth-command-line-tools).
+2. Instale [esse arquivo](https://github.com/Eugenio-Pozzobon/TWS-DEVICE-CONTROL---WINDOWS10/raw/master/Output/twsControl_installer.exe) ou baixe os arquivos desse repositório.
+
 -> Atente-se para gerar os atalhos da área de trabalho no final.
 
 ### Como Utilizar
@@ -47,8 +48,8 @@ Observação 2: É possível que ao rodar o arquivo TWS Start você perceba que 
 
 ### Creditos
 
-Agradecimento ao desenvolvedor do script "bluetooth.ps1", descrito aqui: https://superuser.com/a/1293303/1296346
-Agradecimento ao desenvolvedor da ferramenta de conexão Bluetooth pela linha de comando: https://bluetoothinstaller.com/bluetooth-command-line-tools/
+Agradecimento ao desenvolvedor do script "bluetooth.ps1", descrito [aqui](https://superuser.com/a/1293303/1296346)
+Agradecimento ao desenvolvedor da ferramenta de [conexão Bluetooth pela linha de comando](https://bluetoothinstaller.com/bluetooth-command-line-tools/)
 
 
 
