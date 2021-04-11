@@ -30,6 +30,9 @@ Observação 1: O tempo que o programa precisa para fazer as atividades ocorrere
 Observação 2: É possível que ao rodar o arquivo TWS Start você perceba que o prompt libera uma mensagem de erro, mesmo que conectando o fone. Não se assuste, está tudo bem. Isso acontece pois o programa tenta se conectar em todos os serviços possívels, porém dependendo do fone pode ser que um deles seja um serviço 'oculto' onde a conexão ocorre automaticamente e não precisaria do programa para acontecer, por isso você recebe um erro.
 
 ---
+### Suporte
+
+Em caso de Problemas entre em contato com o desenvolvedor por [email](eugeniopp00@gmail.com)
 
 ### Licença
 
