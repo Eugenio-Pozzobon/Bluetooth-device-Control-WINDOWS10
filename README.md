@@ -1,4 +1,4 @@
-# TWS Control with Windows 10
+# Bluetooth device Control with Windows 10
 [PT-BR Abaixo]
 
 ---
