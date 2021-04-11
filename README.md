@@ -32,7 +32,7 @@ Observação 2: É possível que ao rodar o arquivo TWS Start você perceba que 
 ---
 ### Suporte
 
-Em caso de Problemas entre em contato com o desenvolvedor por [email](eugeniopp00@gmail.com)
+Em caso de Problemas entre em contato com o desenvolvedor por email: eugeniopp00@gmail.com
 
 ### Licença
 
