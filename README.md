@@ -46,7 +46,7 @@ Observação 2: É possível que ao rodar o arquivo TWS Start você perceba que 
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-### Creditos
+### Créditos
 
 Agradecimento ao desenvolvedor do script "bluetooth.ps1", descrito [aqui](https://superuser.com/a/1293303/1296346)
 Agradecimento ao desenvolvedor da ferramenta de [conexão Bluetooth pela linha de comando](https://bluetoothinstaller.com/bluetooth-command-line-tools/)
