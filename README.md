@@ -19,6 +19,8 @@ Instale esse arquivo ou baixe os arquivos desse repositório.
 3. Pronto! Você pode excluir o atalho 'Setup TWS'. As funções agora estão habilitadas.
 4. Se você desejar, é possível criar teclas de atalho no teclado para facilmente conectar/desconectar o dispotivo. 
 Para fazer isso, clique no atalho com botão direito. No menu "Atalho", clique sobre a seção de tecla de atalho e clique nas teclas que deseja usar. Finalize clicando em "Aplicar"
+5. O aplicativo 'TWS Start' inicia a conexão Bluetooth do computador e realiza o pareamento com o dispotivo configurado antes.
+6. O aplicativo 'TWS Stop' encerra os servições Bluetooth com o dispositivo, porém como por vezes isso não é o suficiente para encerrar a conexão, o sistema desativa o bluetooth da sua máquina, garantindo que ocorrerá o despareamento. 
 
 ![image](https://user-images.githubusercontent.com/57693382/114294423-e42d7400-9a74-11eb-9548-80e3c2008891.png)
 
