@@ -72,9 +72,10 @@ tws_end_origin_file.close()
 tws_end_out_file.close()
 
 input("\nSETUP COMPLETO!\n"
-	  "\nPara se Conectar, rode TWS_Start.bat "
-	  "\nPara se Desconectar, rode TWS_Stop.bat\n"
+	  "\nPara se Conectar, rode 'TWS Start'  "
+	  "\nPara se Desconectar, rode 'TWS Stop'\n"
 	  "\nPressione Enter para Sair")
 
 # nuitka cmd script to generate exe file:
 # py -m nuitka --onefile --windows-company-name=Eugenio --windows-icon-from-ico=Setup.ico --windows-product-version=1.0 setup_TWS.py
+#
