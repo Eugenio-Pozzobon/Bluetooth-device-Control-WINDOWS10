@@ -20,17 +20,17 @@ print("SERVIÇOS BLUETOOTH USADOS PELO FONE: " + ','.join(SERVICE_UUID))
 
 #input file
 tws_start_origin_file = open("src/TWS_Start.bat", "rt")
-tws_end_origin_file = open("src/TWS_End.bat", "rt")
+tws_end_origin_file = open("src/TWS_Stop.bat", "rt")
 
 #output file to write the result to
 try:
 	os.remove("TWS_Start.bat")
-	os.remove("TWS_End.bat")
+	os.remove("TWS_Stop.bat")
 except:
 	pass
 
 tws_start_out_file = open("TWS_Start.bat", "at")
-tws_end_out_file = open("TWS_End.bat", "at")
+tws_end_out_file = open("TWS_Stop.bat", "at")
 
 def append_uuid(file):
 	for UUID in SERVICE_UUID:
@@ -73,5 +73,8 @@ tws_end_out_file.close()
 
 input("\nSETUP COMPLETO!\n"
 	  "\nPara se Conectar, rode TWS_Start.bat "
-	  "\nPara se Desconectar, rode TWS_End.bat\n"
-	  "\nPressione Enter para continuar")
+	  "\nPara se Desconectar, rode TWS_Stop.bat\n"
+	  "\nPressione Enter para Sair")
+
+# nuitka cmd script to generate exe file:
+# py -m nuitka --onefile --windows-company-name=Eugenio --windows-product-version=1.0 setup_TWS.py
