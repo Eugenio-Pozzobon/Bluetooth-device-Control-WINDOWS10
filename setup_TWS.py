@@ -77,4 +77,4 @@ input("\nSETUP COMPLETO!\n"
 	  "\nPressione Enter para Sair")
 
 # nuitka cmd script to generate exe file:
-# py -m nuitka --onefile --windows-company-name=Eugenio --windows-product-version=1.0 setup_TWS.py
+# py -m nuitka --onefile --windows-company-name=Eugenio --windows-icon-from-ico=Setup.ico --windows-product-version=1.0 setup_TWS.py
